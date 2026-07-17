@@ -6,34 +6,44 @@ The Smart Device Management System is a Python Object-Oriented Programming proje
 
 ### The system manages three different smart devices used in a smart home:
 
-1. Temperature Sensor
-2.Smart Light
-3.Security Camera
+1.Temperature Sensor
+ 
+ 2.Smart Light
 
-Each device inherits common features from the `SmartDevice` which is parent class while also having its own unique attributes and methods.
+ 3.Security Camera
+
+Each device inherits common features from the SmartDevice which is parent class while also having its own unique attributes and methods.
 
 ## Methods under SmartDevice (Parent Class)
 
 1.Turn device on
+
 2.Turn device off
+
 3.Display device information
+
 4.Get and set device ID
+
 5.Get and set power status
 
 ## Methods and attribute under Temperature Sensor(child class)
 
 1.Read temperature
+
 2.Store temperature value
 
 ## Methods under SmartLight(child class)
 
 1.Increase brightness
+
 2.Decrease brightness
+
 3.Brightness validation(from 0 to 100)
 
 ## Methods under Security Camera
 
 1.Start recording
+
 2.Stop recording
 
 ##  Programming Concepts Used
@@ -41,17 +51,29 @@ Each device inherits common features from the `SmartDevice` which is parent clas
 This project demonstrates the following OOP concepts:
 
 1.Classes and Objects
+
 2.Inheritance
+
 3.Encapsulation
+
 4.Constructors (__init__)
+
 5.Method Overriding
+
 6.Getters and Setters
+
 7.Use of super()
+
 8.Variables
+
 9.Data Types
+
 10.User Input
+
 11.Conditional Statements (if, elif,else)
+
 12.Loops (while)
+
 13.Functions (Methods)
 
 
