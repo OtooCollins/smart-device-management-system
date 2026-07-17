@@ -103,7 +103,9 @@ The program provides a simple menu that allows the user to:
 ## Author
 
 Otoo Collins
+
 University of Mines and Technology (UMaT)
+
 Electrical and Electronic Engineering Department
 
 
